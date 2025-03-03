@@ -33,14 +33,10 @@ python snake_game.py
 - **R**: Restart the game.
 - **Q**: Quit the game.
 
-📫 Contact
-
+## 📫 Contact
 For any queries or contributions, reach out via:
-
-Email: vidurakavindadev@gmail.com
-
-LinkedIn: Vidura Kavinda
-
+- **Email**: [vidurakavindadev@gmail.com](mailto:vidurakavindadev@gmail.com)
+- **LinkedIn**: [Vidura Kavinda](https://www.linkedin.com/in/vidura-kavinda-a76b34204/)
 
 ## License
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
