@@ -14,7 +14,7 @@ A classic 2D Snake game built in Python using the `pygame` library.
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/snake-game.git
+   git clone https://github.com/vidu1999/snakegame.git
    ```
 2. Install the required dependencies:
    ```bash
