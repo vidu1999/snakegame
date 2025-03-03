@@ -38,9 +38,3 @@ For any queries or contributions, reach out via:
 - **Email**: [vidurakavindadev@gmail.com](mailto:vidurakavindadev@gmail.com)
 - **LinkedIn**: [Vidura Kavinda](https://www.linkedin.com/in/vidura-kavinda-a76b34204/)
 
-## License
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
-
----
-
-Let me know if you need further tweaks! 😊
